@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PhotoShare</string>
+
+    <string name="pic1_name">Denis</string>
+    <string name="pic2_name">John</string>
+    <string name="pic3_name">Xiong</string>
+
+    <string name="pic1_description">Long Walk</string>
+    <string name="pic2_description">See you!!!</string>
+    <string name="pic3_description">Good Morning</string>
+
+
+</resources>
